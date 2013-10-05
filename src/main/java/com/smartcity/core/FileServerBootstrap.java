@@ -17,6 +17,7 @@ import java.util.Properties;
 public class FileServerBootstrap {
 
 	private static final String CONFIG_FILE = "config.properties";
+	
 	private static final String SERVER_PORT = "server.port";
 
 	public static void main(String[] args) throws Exception {
